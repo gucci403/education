@@ -10,7 +10,7 @@ public class HelloJava {
 		// add contents about "branch" 
 		System.out.println("Second Commit work");
 		
-		// add contents about updating of romote storage
+		// add contents in romote storage
 		System.out.println("GitHub Update")
 		
 	}
